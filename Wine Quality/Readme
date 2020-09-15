@@ -1,0 +1,3 @@
+In this project, a simple Linear Regression modeling has been carried out to predict the quality of the wine on the scale of 1-10.
+The data was standardized, outliers were removed.
+F! score was 0.38.
